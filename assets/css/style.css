@@ -343,9 +343,7 @@ footer .copyright{
     color: white;
     font-family: 'playball';
 }
-
-
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
     .inicio-container h1{
         font-size: 60px;
     }
